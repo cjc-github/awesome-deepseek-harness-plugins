@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "cjc-github/dsh-model-provider-picker",
+  "name": "dsh-model-provider-picker",
+  "repository": "https://github.com/cjc-github/dsh-model-provider-picker",
+  "category": "ui",
+  "description": {
+    "en": "Replaces the flat model list with a two-level picker: choose a provider first, then a model, then its reasoning effort. Selection is bound to the provider/model pair, and settings provide per-provider and per-model visibility toggles.",
+    "zh": "把模型选择器改为两级列表：先选厂商，再选模型，最后选推理等级，等级绑定到厂商与模型的组合；设置中提供按厂商和按模型隐藏的可见性开关。"
+  },
+  "added": "2026-10-29"
+}
